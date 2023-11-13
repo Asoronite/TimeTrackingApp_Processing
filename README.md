@@ -1,17 +1,2 @@
-# Using Processing 3 in IntelliJ IDEA
-
-This repository contains an example [Processing 3](https://processing.org) project in [IntelliJ IDEA](https://www.jetbrains.com/idea/).
-
-The project can be used in two steps:
-
-1. Open the project in IntelliJ IDEA
-2. Add the same configuration you see on the screenshot
-3. Duplicate the example applet and create as many Processing sketches as you want!
-
-![Configuration screenshot](https://user-images.githubusercontent.com/708312/114612303-461ef100-9ca2-11eb-85dc-37f423686dfe.png)
-
-# About
-
-This project contains the Processing core libraries and is therefore distibuted under [GPL licence](LICENSE.md).
-
-*Thank you Processing!*
+I programmed a time tracking app for daily use but also to extend my Processing skills.
+<img width="720" alt="Screenshot 2023-11-13 at 14 08 35" src="https://github.com/Asoronite/TimeTrackingApp_Processing/assets/118924223/1aa62864-dbba-4bff-b07b-db4996ebea2e">
